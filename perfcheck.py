@@ -1,3 +1,12 @@
+"""
+Module to test against performance againt the sos-report of the satellite. 
+
+Author: Jaskaran Singh Narula
+Email: narula.jaskaran@gmail.com
+
+"""
+
+
 import sys
 import os
 import re
